@@ -1,6 +1,6 @@
-author: Eula
+authors: [Esqueci, Eula(ppolur)]
 name: AlphartSafra
-version: 0.2
+version: 0.3
 main: labs.alphart.safra.Main
 commands:
   cropupdate:
