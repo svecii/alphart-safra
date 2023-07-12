@@ -1,0 +1,24 @@
+# Tempo de rotação da safra (em minutos)
+rotation-interval-minutes: 120
+crop-world: "terrenos"
+current-crop-message: "&fSafra atual: &6{crop}&f!"
+no-permission: "&cVocê precisa do cargo Admin ou superior para executar este comando."
+
+crop-update-sound: "level_up"
+crop-update-title: "&6&lSAFRA"
+crop-update-subtitle: "&7Estamos em época de cultivar: &f{crop}&7!"
+crop-update-message:
+  - ""
+  - "&6&lATUALIZAÇÃO DA SAFRA!"
+  - "&7Próxima atualização daqui 2 horas."
+  - ""
+  - "&fEntramos na época de cultivar: &6{crop}&f!"
+  - ""
+  - "&cQuebre suas plantações já cultivadas e plante-às novamente..."
+
+
+# Efeito quando o jogador colocar uma plantação em safra
+particle-effect: happy_villager
+
+# Velocidade de crescimento da plantação (em segundos)
+crop-growth-speed: 3

@@ -1,0 +1,10 @@
+author: Eula
+name: AlphartSafra
+version: 0.2
+main: labs.alphart.safra.Main
+commands:
+  cropupdate:
+    aliases:
+      - croprotate
+      - saframudar
+  safra:
